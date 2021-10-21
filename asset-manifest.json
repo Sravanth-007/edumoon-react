@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/edumoon-react/static/css/main.9bd1bb11.chunk.css",
+    "main.js": "/edumoon-react/static/js/main.0529c929.chunk.js",
+    "main.js.map": "/edumoon-react/static/js/main.0529c929.chunk.js.map",
+    "runtime-main.js": "/edumoon-react/static/js/runtime-main.cd25e5e2.js",
+    "runtime-main.js.map": "/edumoon-react/static/js/runtime-main.cd25e5e2.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/edumoon-react/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.a6c536f5.chunk.js": "/edumoon-react/static/js/2.a6c536f5.chunk.js",
+    "static/js/2.a6c536f5.chunk.js.map": "/edumoon-react/static/js/2.a6c536f5.chunk.js.map",
+    "static/js/3.130ec585.chunk.js": "/edumoon-react/static/js/3.130ec585.chunk.js",
+    "static/js/3.130ec585.chunk.js.map": "/edumoon-react/static/js/3.130ec585.chunk.js.map",
+    "index.html": "/edumoon-react/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/edumoon-react/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.9bd1bb11.chunk.css.map": "/edumoon-react/static/css/main.9bd1bb11.chunk.css.map",
+    "static/js/2.a6c536f5.chunk.js.LICENSE.txt": "/edumoon-react/static/js/2.a6c536f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd25e5e2.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.a6c536f5.chunk.js",
+    "static/css/main.9bd1bb11.chunk.css",
+    "static/js/main.0529c929.chunk.js"
+  ]
+}
